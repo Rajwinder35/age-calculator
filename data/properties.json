@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1",
+    "title": "Modern Family Home",
+    "price": 450000,
+    "location": "123 Oak Street, Springfield",
+    "description": "Beautiful modern family home with spacious rooms and a large backyard. Perfect for families looking for comfort and style.",
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "sqft": 2500,
+    "imageUrl": "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=800&h=600&fit=crop",
+    "modelData": {
+      "floors": 2,
+      "roofType": "gabled",
+      "color": "#e8d5b7",
+      "hasGarage": true
+    },
+    "createdAt": "2025-11-01T10:00:00.000Z"
+  },
+  {
+    "id": "2",
+    "title": "Luxury Villa",
+    "price": 850000,
+    "location": "456 Palm Avenue, Beverly Hills",
+    "description": "Stunning luxury villa with panoramic views, infinity pool, and state-of-the-art amenities. Experience the ultimate in sophisticated living.",
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "sqft": 4200,
+    "imageUrl": "https://images.unsplash.com/photo-1613490493576-7fde63acd811?w=800&h=600&fit=crop",
+    "modelData": {
+      "floors": 2,
+      "roofType": "flat",
+      "color": "#ffffff",
+      "hasGarage": true
+    },
+    "createdAt": "2025-11-02T14:30:00.000Z"
+  },
+  {
+    "id": "3",
+    "title": "Cozy Cottage",
+    "price": 275000,
+    "location": "789 Maple Lane, Riverside",
+    "description": "Charming cottage with rustic appeal and modern updates. Ideal for first-time buyers or those seeking a peaceful retreat.",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "sqft": 1400,
+    "imageUrl": "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800&h=600&fit=crop",
+    "modelData": {
+      "floors": 1,
+      "roofType": "gabled",
+      "color": "#c9a66b",
+      "hasGarage": false
+    },
+    "createdAt": "2025-11-03T09:15:00.000Z"
+  }
+]
